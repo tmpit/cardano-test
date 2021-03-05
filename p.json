@@ -1,5 +1,6 @@
 {
   "name": "TestPool",
   "description": "For testing purposes",
-  "ticker": "ZESTY"
+  "ticker": "ZESTY",
+  "homepage": null
 }
